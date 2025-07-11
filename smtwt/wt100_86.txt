@@ -100,5 +100,5 @@
 74 1 672
 88 1 95
 ---
-WT UB: 66850
-WT Optimal: 0
+Objective UB: 66850
+Objective Optimal: 0

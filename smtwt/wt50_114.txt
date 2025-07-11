@@ -50,5 +50,5 @@
 30 5 1800
 39 4 1209
 ---
-WT UB: 15467
-WT Optimal: 1
+Objective UB: 15467
+Objective Optimal: 1

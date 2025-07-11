@@ -50,5 +50,5 @@
 37 5 1989
 85 9 2074
 ---
-WT UB: 1996
-WT Optimal: 1
+Objective UB: 1996
+Objective Optimal: 1

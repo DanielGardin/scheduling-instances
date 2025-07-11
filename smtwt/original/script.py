@@ -36,7 +36,7 @@ for n_task, n_line in zip(n_tasks, n_lines):
 
             ub, optimal = map(int, opt_values[instance_id])
 
-            f.write(f"WT UB: {ub}\n")
-            f.write(f"WT Optimal: {optimal}\n")
+            f.write(f"Objective UB: {ub}\n")
+            f.write(f"Objective Optimal: {optimal}\n")
 
         ptr += 3*n_line

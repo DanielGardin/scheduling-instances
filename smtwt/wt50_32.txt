@@ -50,5 +50,5 @@
 38 1 2010
 9 9 1887
 ---
-WT UB: 7178
-WT Optimal: 1
+Objective UB: 7178
+Objective Optimal: 1
